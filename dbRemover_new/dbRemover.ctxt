@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=dbRemover()
+comment0.text=Creates\ new\ form\ dbRemover\ \n
+comment1.params=value
+comment1.target=void\ changeTheLookAndFeel(int)
+comment2.target=void\ initComponents()
+comment3.params=evt
+comment3.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ jButton2ActionPerformed(java.awt.event.ActionEvent)
+comment5.params=f
+comment5.target=void\ Size(java.io.File)
+comment6.params=f
+comment6.target=void\ Del(java.io.File)
+comment7.params=args
+comment7.target=void\ main([)
+comment7.text=\n@param\ args\ the\ command\ line\ arguments\n\n
+numComments=8

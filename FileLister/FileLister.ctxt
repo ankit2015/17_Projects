@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FileLister()
+comment0.text=Creates\ new\ form\ FileLister2\ \n
+comment1.params=value
+comment1.target=void\ changeTheLookAndFeel(int)
+comment2.params=f
+comment2.target=void\ Size(java.io.File)
+comment3.target=void\ initComponents()
+comment4.params=args
+comment4.target=void\ main([)
+comment4.text=\n@param\ args\ the\ command\ line\ arguments\n\n
+numComments=5

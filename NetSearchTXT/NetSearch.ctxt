@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NetSearch()
+comment0.text=Creates\ new\ form\ NetSearch\ \n
+comment1.target=void\ main2()
+comment2.target=void\ initComponents()
+comment3.params=evt
+comment3.target=void\ jButton2ActionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ jButton1FocusGainedHandler(java.awt.event.FocusEvent)
+comment6.params=args
+comment6.target=void\ main([)
+comment6.text=\n@param\ args\ the\ command\ line\ arguments\n\n
+numComments=7
