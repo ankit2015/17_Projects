@@ -3,7 +3,6 @@
  * @author Ankit Singh
  */
 
- 
 
 public class BasicSearch
 {

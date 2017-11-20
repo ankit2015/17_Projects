@@ -15,7 +15,7 @@ public class dbRemover extends javax.swing.JFrame
     static File f=null;
     float s=0;
     int c=0;
-    
+
     /** Creates new form dbRemover */
     public dbRemover()
     {
